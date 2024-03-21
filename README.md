@@ -1,4 +1,4 @@
-![Data Science image](https://d502jbuhuh9wk.cloudfront.net/courses/5e8c16ba0cf27666c8dbbf19/5e8c16ba0cf27666c8dbbf19_scaled_cover.jpg?v=1)
+![Data Science image](https://media.licdn.com/dms/image/C5612AQEt-lIKIQTiPA/article-cover_image-shrink_600_2000/0/1520176259111?e=1716422400&v=beta&t=MgRmEKQ3oxI_HrussmprVv--DcR9pQuFVyOV8CcGBWk)
 ### Hi there I'm Serghei 👋
 
 <!--
