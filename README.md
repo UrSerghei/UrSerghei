@@ -3,9 +3,7 @@
 
 - I’m currently learning Data Science at HyperionDev
 - I'm from Moldova, living in London.
-  
-[![Linked In](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/serghei-ursachii-254b39153/)
-Contact Me!
+  [![Linked In](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/serghei-ursachii-254b39153/)
 <!--
 **UrSerghei/UrSerghei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
