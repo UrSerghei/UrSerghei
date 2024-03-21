@@ -1,4 +1,4 @@
-![Data Science image](https://cdnwebsite.databox.com/wp-content/uploads/2022/03/11071010/data-analysis-questions.png)
+![Data Science image](https://www.air.org/sites/default/files/styles/large_card/public/2022-06/data-science-tech-left-DS-capes-1153657433.jpg?h=21cd0a81&itok=91PhIZt5))
 ### Hi there I'm Serghei 👋
 
 <!--
