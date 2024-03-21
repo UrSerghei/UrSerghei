@@ -3,7 +3,7 @@
 
 - I’m currently learning Data Science at HyperionDev
 - I'm from Moldova, living in London.
-- How to reach me: [(https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg)](https://www.linkedin.com/in/serghei-ursachii-254b39153/)
+- How to reach me: (https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg)(https://www.linkedin.com/in/serghei-ursachii-254b39153/)
 <!--
 **UrSerghei/UrSerghei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
