@@ -1,4 +1,4 @@
-![Data Science image](https://www.air.org/sites/default/files/styles/large_card/public/2022-06/data-science-tech-left-DS-capes-1153657433.jpg?h=21cd0a81&itok=91PhIZt5))
+![Data Science image](https://d502jbuhuh9wk.cloudfront.net/courses/5e8c16ba0cf27666c8dbbf19/5e8c16ba0cf27666c8dbbf19_scaled_cover.jpg?v=1)
 ### Hi there I'm Serghei 👋
 
 <!--
