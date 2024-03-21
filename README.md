@@ -1,4 +1,6 @@
-### Hi there 👋
+<img src=”https://cdnwebsite.databox.com/wp-content/uploads/2022/03/11071010/data-analysis-questions.png”>
+
+### Hi there I'm Serghei 👋
 
 <!--
 **UrSerghei/UrSerghei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
