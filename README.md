@@ -1,4 +1,4 @@
-<img src=”https://cdnwebsite.databox.com/wp-content/uploads/2022/03/11071010/data-analysis-questions.png”>
+<img src=”https://cdnwebsite.databox.com/wp-content/uploads/2022/03/11071010/data-analysis-questions.png”></img>
 
 ### Hi there I'm Serghei 👋
 
