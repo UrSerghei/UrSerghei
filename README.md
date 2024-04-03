@@ -4,6 +4,11 @@
 - I’m currently learning Data Science at HyperionDev
   
   [![Linked In](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/serghei-ursachii-254b39153/)
+
+### Skills:
+  [![My Skills](https://skillicons.dev/icons?i=vscode,selenium,sklearn,stackoverflow,sqlite,replit,py,pycharm,postman,matlab,html,css,anaconda,atom,bootstrap,flask,git,github&perline=6)](https://skillicons.dev)
+
+
 <!--
 **UrSerghei/UrSerghei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
