@@ -1,7 +1,5 @@
 ![Data Science image](https://media.licdn.com/dms/image/C5612AQEt-lIKIQTiPA/article-cover_image-shrink_600_2000/0/1520176259111?e=1716422400&v=beta&t=MgRmEKQ3oxI_HrussmprVv--DcR9pQuFVyOV8CcGBWk)
 ### Hi there I'm Serghei 👋
-
-- I’m currently learning Data Science at HyperionDev
   
   [![Linked In](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/serghei-ursachii-254b39153/)
 
