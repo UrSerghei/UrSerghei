@@ -4,7 +4,7 @@
 
 Hello! I'm Serghei Ursachii, a passionate Data Scientist with a knack for uncovering insights from data and turning them into actionable business strategies. I have 1 year of experience in the field, working with various data analytics and machine learning tools. My expertise lies in predictive modelling, natural language processing, big data analytics, etc.
 
-- 🌍 Based in: London
+- 🌍 Based in London, UK
 - 🎓 Education: Data Scientist Bootcamp, HyperionDev / Python Pro Bootcamp, Udemy
 - 💼 Currently working at Upwork as a Data Scientist
 
