@@ -22,6 +22,7 @@ Hello! I'm Serghei Ursachii, a passionate Data Scientist with a knack for uncove
 
 - Python Developer (https://www.udemy.com/certificate/UC-32335b74-512f-45d5-985e-ed1933ffd7dd/)
 - SQL for Data Science (https://coursera.org/share/1a905ab5b10f015f051c22603f9323ec)
+- Data Wrangling, Analysis and AB Testing with SQL (https://coursera.org/share/20cee886d4c067cc38f53376e6b986b6)
 
 ## Contact Me
 
