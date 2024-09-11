@@ -7,7 +7,10 @@ Data Scientist | Turning Data into Actionable Insights to Drive Success 🚀
 I’m a passionate and results-driven Data Scientist, specializing in transforming raw data into valuable insights that fuel business growth and innovation. With a unique blend of analytical expertise and business acumen, I thrive on solving complex problems and delivering impactful solutions.
 
 - 🌍 Based in London, UK
-- 🎓 Education: Data Scientist Bootcamp, HyperionDev / Python Pro Bootcamp, Udemy
+- 🎓 Education:
+  - London Metropolitan University, Data Science, BSc(Hons)
+  - Data Science Bootcamp, HyperionDev
+  - Python Pro Bootcamp, Udemy
 - 💼 Currently working at Upwork as a Data Scientist
 
 ## Skills
@@ -16,7 +19,6 @@ I’m a passionate and results-driven Data Scientist, specializing in transformi
 - **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
 - **Machine Learning:** Scikit-learn, TensorFlow, Keras, PyTorch
 - **Databases:** MySQL, PostgreSQL
-- **Cloud Platforms:** Azure
 - **Others:** Git, Jupyter Notebooks
 
 
