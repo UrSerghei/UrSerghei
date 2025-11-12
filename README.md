@@ -8,14 +8,13 @@ I’m a passionate and results-driven Data Scientist, specializing in transformi
 
 - 🌍 Based in London, UK
 - 🎓 Education:
-  - London Metropolitan University, Data Science, BSc(Hons)
+  - Greenwich University, Data Science, BSc(Hons)
   - Data Science Bootcamp, HyperionDev
   - Python Pro Bootcamp, Udemy
-- 💼 Currently working at Upwork as a Data Scientist
 
 ## Skills
 
-- **Programming Languages:** Python, SQL
+- **Programming Languages:** Python, SQL, R
 - **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
 - **Machine Learning:** Scikit-learn, TensorFlow, Keras, PyTorch
 - **Databases:** MySQL, PostgreSQL
@@ -35,9 +34,6 @@ I’m a passionate and results-driven Data Scientist, specializing in transformi
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/serghei-ursachii-254b39153/)
 - **Email:** [serghei.ursachii01@gmail.com](mailto:serghei.ursachii01@gmail.com)
 
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UrSerghei&layout=compact&theme=chartreuse-light)
 
 ---
 
