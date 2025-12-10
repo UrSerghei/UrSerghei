@@ -1,13 +1,13 @@
-![Beige and White Modern LinkedIn Background Photo](https://github.com/UrSerghei/UrSerghei/assets/128091943/d82f2dcf-eacc-4ca5-bf43-35c3ff0cda3e)
-
 ## About Me
 
-Data Scientist | Turning Data into Actionable Insights to Drive Success 🚀
+  I’m a Data Science student at the University of Greenwich with a strong interest in machine learning, quantitative finance, and data analytics. I enjoy working with R, Python, SQL, data visualisation, and building models for time-series forecasting and predictive analysis.
 
-I’m a passionate and results-driven Data Scientist, specializing in transforming raw data into valuable insights that fuel business growth and innovation. With a unique blend of analytical expertise and business acumen, I thrive on solving complex problems and delivering impactful solutions.
+Currently developing projects in ML, LSTM neural networks, technical indicators, and financial data modelling.
 
-- 🌍 Based in London, UK
-- 🎓 Education:
+Focused on growing my skills in AI, statistics, and real-world data applications, and preparing for future internships and industry placements.
+
+- Based in London, UK
+- Education:
   - Greenwich University, Data Science, BSc(Hons)
   - Data Science Bootcamp, HyperionDev
   - Python Pro Bootcamp, Udemy
@@ -16,8 +16,8 @@ I’m a passionate and results-driven Data Scientist, specializing in transformi
 
 - **Programming Languages:** Python, SQL, R
 - **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
-- **Machine Learning:** Scikit-learn, TensorFlow, Keras, PyTorch
-- **Databases:** MySQL, PostgreSQL
+- **Machine Learning:** Scikit-learn, PyTorch
+- **Databases:** MySQL
 - **Others:** Git, Jupyter Notebooks
 
 
