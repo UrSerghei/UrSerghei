@@ -8,7 +8,7 @@ Focused on growing my skills in AI, statistics, and real-world data applications
 
 - Based in London, UK
 - Education:
-  - Greenwich University, Data Science, BSc(Hons)
+  - Greenwich University, BSc Data Science
   - Data Science Bootcamp, HyperionDev
   - Python Pro Bootcamp, Udemy
 
